@@ -1,0 +1,16 @@
+{
+  "herbivores":[
+    {
+    "name": "Brontosaurus",
+    "family": "Dinosaur"
+    },
+    {
+    "name": "Cow",
+    "family": "Farm animal"
+    },
+    {
+    "name": "Giraffe",
+    "family": "Jungle"
+    }
+  ]
+}
